@@ -20,6 +20,10 @@ namespace PersonalityTest
                     Label1.Text = "You enjoy fast-paced environments and social connections.";
                 else if (img == "nature")
                     Label1.Text = "You are peaceful, calm, and value natural beauty.";
+                else if (img == "animal")
+                    Label1.Text = "You values natural beauty.";
+                else if (img == "beach")
+                    Label1.Text = "You want peace.";
                 else
                     Label1.Text = "Please select an image first.";
             }
