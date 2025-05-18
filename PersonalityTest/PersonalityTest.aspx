@@ -28,6 +28,12 @@
             <a href="Result.aspx?img=nature">
                 <img src="images/NATURE.jpg" width="200" height="150" style="margin: 10px;" />
             </a>
+            <a href="Result.aspx?img=animal">
+                <img src="images/ANIMAL.jpg" width="200" height="150" style="margin: 10px;" />
+            </a>
+             <a href="Result.aspx?img=beach">
+                <img src="images/BEACH.jpg" width="200" height="150" style="margin: 10px;" />
+            </a>
         </div>
     </form>
 </body>
